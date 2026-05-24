@@ -1,25 +1,23 @@
-# ReactAndReactNativeFundamentals
+# Day 07: Component Composition & Reusable UI Patterns
 
-A 30-day hands-on journey to learn **React** and **React Native**
-from a mobile engineer’s perspective.
+This day focuses on building reusable UI components and composing them together.
 
-## Goal
-- Master React fundamentals
-- Build React Native apps with confidence
-- One focused commit per day
-- Strong foundations for real-world apps
+---
 
-## Structure
-Each folder represents one day of learning:
-- Concepts
-- Code
-- Notes
-- Practice
+## Concepts Covered
+- Component composition
+- `children` prop
+- Reusable container components
+- Reusable button components
+- Layout wrapper components
+- Passing callback props
 
-## Progress
-- Day 01: Modern JavaScript (ES6+)
-- Day 02: JSX & React Basics
-- Day 03: Components & Props
-- Day 04: State & Hooks
-- ...
-- Day 30: Capstone React Native App
+---
+
+## Component Structure
+
+```text
+App
+├── Section
+├── Card
+└── ReusableButton
