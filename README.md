@@ -1,26 +1,51 @@
-# Day 07: Component Composition & Reusable UI Patterns
+# React and React Native Fundamentals
 
-This day focuses on building reusable UI components and composing them together.
+This repository contains a day-by-day learning series for React and React Native fundamentals.
 
----
-
-## Concepts Covered
-- Component composition
-- `children` prop
-- Reusable container components
-- Reusable button components
-- Layout wrapper components
-- Passing callback props
+The early days focus on modern JavaScript and React for the web. Later days move into React Native with Expo, covering state, interactions, lists, navigation, search, filtering, and API calls.
 
 ---
 
-## Component Structure
+## Repository Structure
+
+Each day has its own folder and README.
 
 ```text
-App
-├── Section
-├── Card
-└── ReusableButton
+day-01-modern-javascript/
+day-02-react-web-vite/
+day-03-react-state-events/
+day-04-useeffect-lifecycle/
+day-05-controlled-inputs/
+day-06-lifting-state-up/
+day-07-component-composition/
+day-08-react-native-expo/
+day-09-rn-state-interactions/
+day-10-rn-flatlist/
+day-11-rn-navigation/
+day-12-rn-search-filter/
+day-13-rn-api-fetch/
+```
+
+---
+
+## How to Run a Day
+
+Open the folder for the day you want to run, install dependencies, then start the project.
+
+For React web days:
+
+```bash
+cd day-02-react-web-vite
+npm install
+npm run dev
+```
+
+For React Native Expo days:
+
+```bash
+cd day-13-rn-api-fetch
+npm install
+npx expo start
 ```
 
 ---
