@@ -30,6 +30,10 @@ API-driven screens usually track three main states:
 
 The retry button calls the same fetch function as the first load, which keeps the data flow simple and beginner-friendly.
 
+## Output
+
+![Day 13 output](./screenshots/day-13-output.png)
+
 ## Project Structure
 
 ```text
@@ -38,6 +42,8 @@ day-13-rn-api-fetch/
 ├── app.json
 ├── index.js
 ├── package.json
+├── screenshots/
+│   └── day-13-output.png
 └── README.md
 ```
 
