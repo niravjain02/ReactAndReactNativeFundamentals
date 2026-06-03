@@ -26,6 +26,7 @@ day-12-rn-search-filter/
 day-13-rn-api-fetch/
 day-14-rn-ui-states/
 day-15-rn-custom-hooks/
+day-16-rn-context-api/
 ```
 
 ---
@@ -69,3 +70,4 @@ npx expo start
 - Day 13: React Native API Calls with fetch
 - Day 14: Reusable Loading, Error & Empty States
 - Day 15: Custom Hooks
+- Day 16: Context API & Global State
