@@ -14,3 +14,5 @@ build/
 # React Native / Expo
 .expo/
 ios/Pods/.private-ai/
+.private-ai/
+automation/
