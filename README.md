@@ -30,6 +30,7 @@ day-16-rn-context-api/
 day-17-rn-asyncstorage/
 day-18-rn-forms-validation/
 day-19-rn-navigation-params/
+day-20-rn-user-directory/
 ```
 
 ---
@@ -77,3 +78,4 @@ npx expo start
 - Day 17: AsyncStorage & Local Persistence
 - Day 18: React Native Forms & Validation
 - Day 19: Navigation & Route Params
+- Day 20: Mini Project - User Directory App
