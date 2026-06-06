@@ -31,6 +31,7 @@ day-17-rn-asyncstorage/
 day-18-rn-forms-validation/
 day-19-rn-navigation-params/
 day-20-rn-user-directory/
+day-21-rn-performance/
 ```
 
 ---
@@ -79,3 +80,4 @@ npx expo start
 - Day 18: React Native Forms & Validation
 - Day 19: Navigation & Route Params
 - Day 20: Mini Project - User Directory App
+- Day 21: React Native Performance Optimization
