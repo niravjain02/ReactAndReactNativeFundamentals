@@ -32,6 +32,7 @@ day-18-rn-forms-validation/
 day-19-rn-navigation-params/
 day-20-rn-user-directory/
 day-21-rn-performance/
+day-22-rn-pagination-refresh/
 ```
 
 ---
@@ -81,3 +82,4 @@ npx expo start
 - Day 19: Navigation & Route Params
 - Day 20: Mini Project - User Directory App
 - Day 21: React Native Performance Optimization
+- Day 22: Pagination & Pull-to-Refresh
