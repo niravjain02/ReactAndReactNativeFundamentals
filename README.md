@@ -35,6 +35,7 @@ day-21-rn-performance/
 day-22-rn-pagination-refresh/
 day-23-rn-production-architecture/
 day-24-rn-testing-basics/
+day-25-rn-debugging-devtools/
 ```
 
 ---
@@ -87,3 +88,4 @@ npx expo start
 - Day 22: Pagination & Pull-to-Refresh
 - Day 23: Production Folder Architecture
 - Day 24: Testing Basics with Jest
+- Day 25: Debugging & DevTools
