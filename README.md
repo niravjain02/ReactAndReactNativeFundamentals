@@ -34,6 +34,7 @@ day-20-rn-user-directory/
 day-21-rn-performance/
 day-22-rn-pagination-refresh/
 day-23-rn-production-architecture/
+day-24-rn-testing-basics/
 ```
 
 ---
@@ -85,3 +86,4 @@ npx expo start
 - Day 21: React Native Performance Optimization
 - Day 22: Pagination & Pull-to-Refresh
 - Day 23: Production Folder Architecture
+- Day 24: Testing Basics with Jest
