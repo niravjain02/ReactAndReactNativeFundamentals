@@ -36,6 +36,7 @@ day-22-rn-pagination-refresh/
 day-23-rn-production-architecture/
 day-24-rn-testing-basics/
 day-25-rn-debugging-devtools/
+day-26-rn-design-system/
 ```
 
 ---
@@ -89,3 +90,4 @@ npx expo start
 - Day 23: Production Folder Architecture
 - Day 24: Testing Basics with Jest
 - Day 25: Debugging & DevTools
+- Day 26: Styling & Design System
