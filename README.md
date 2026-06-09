@@ -37,6 +37,8 @@ day-23-rn-production-architecture/
 day-24-rn-testing-basics/
 day-25-rn-debugging-devtools/
 day-26-rn-design-system/
+day-27-rn-typescript/
+day-28-capstone-start/
 ```
 
 ---
@@ -91,3 +93,5 @@ npx expo start
 - Day 24: Testing Basics with Jest
 - Day 25: Debugging & DevTools
 - Day 26: Styling & Design System
+- Day 27: TypeScript for React Native
+- Day 28: Capstone Start - User Directory App
