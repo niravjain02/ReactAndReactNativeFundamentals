@@ -39,6 +39,7 @@ day-25-rn-debugging-devtools/
 day-26-rn-design-system/
 day-27-rn-typescript/
 day-28-capstone-start/
+day-29-capstone-polish/
 ```
 
 ---
@@ -95,3 +96,4 @@ npx expo start
 - Day 26: Styling & Design System
 - Day 27: TypeScript for React Native
 - Day 28: Capstone Start - User Directory App
+- Day 29: Capstone Polish - Favorites & Persistence
