@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="560" viewBox="0 0 375 560">
+  <!-- Background -->
+  <rect width="375" height="560" fill="#F4F7FB"/>
+
+  <!-- Nav header -->
+  <rect width="375" height="88" fill="#FFFFFF"/>
+  <line x1="0" y1="88" x2="375" y2="88" stroke="#E2E8F0" stroke-width="0.5"/>
+  <!-- Back chevron -->
+  <text x="16" y="62" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="20">‹</text>
+  <text x="30" y="62" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="15">User Directory</text>
+  <!-- Title -->
+  <text x="187" y="62" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="17" font-weight="700" text-anchor="middle">Favorites</text>
+
+  <!-- Eyebrow -->
+  <text x="20" y="116" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="700">SAVED</text>
+  <!-- Title -->
+  <text x="20" y="148" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="26" font-weight="700">Favorites</text>
+  <!-- Subtitle -->
+  <text x="20" y="172" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="13">3 users saved</text>
+
+  <!-- Card 1 — Ervin Howell (favorited) -->
+  <rect x="20" y="190" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="226" r="22" fill="#E8EDFF"/>
+  <text x="58" y="231" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">EH</text>
+  <text x="92" y="214" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Ervin Howell</text>
+  <text x="92" y="230" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Antonette · Deckow-Crist</text>
+  <text x="92" y="246" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">shanna@melissa.tv</text>
+  <text x="334" y="231" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♥</text>
+
+  <!-- Card 2 — Patricia Lebsack (favorited) -->
+  <rect x="20" y="272" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="308" r="22" fill="#E8EDFF"/>
+  <text x="58" y="313" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">PL</text>
+  <text x="92" y="296" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Patricia Lebsack</text>
+  <text x="92" y="312" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Karianne · Robel-Corkery</text>
+  <text x="92" y="328" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">julianne.oconner@kory.org</text>
+  <text x="334" y="313" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♥</text>
+
+  <!-- Card 3 — Chelsey Dietrich (favorited) -->
+  <rect x="20" y="354" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="390" r="22" fill="#E8EDFF"/>
+  <text x="58" y="395" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">CD</text>
+  <text x="92" y="378" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Chelsey Dietrich</text>
+  <text x="92" y="394" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Kamren · Keebler LLC</text>
+  <text x="92" y="410" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">lucio_hettinger@annie.ca</text>
+  <text x="334" y="395" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♥</text>
+</svg>

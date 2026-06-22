@@ -6,6 +6,18 @@ Each day has its own folder, README, and runnable project. Days 1–7 focus on R
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/user-list.svg" width="220" alt="User Directory — searchable list with favorite toggles"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/favorites.svg" width="220" alt="Favorites — saved users persisted with AsyncStorage"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/user-detail.svg" width="220" alt="Profile — full detail with favorite action button"/>
+</p>
+
+---
+
 ## Skills Demonstrated
 
 - React function components, hooks, and composition patterns

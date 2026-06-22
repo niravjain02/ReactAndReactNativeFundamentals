@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="752" viewBox="0 0 375 752">
+  <defs>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F4F7FB" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F4F7FB" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect width="375" height="752" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="375" height="752" fill="#F4F7FB"/>
+
+  <!-- Nav header -->
+  <rect width="375" height="88" fill="#FFFFFF"/>
+  <line x1="0" y1="88" x2="375" y2="88" stroke="#E2E8F0" stroke-width="0.5"/>
+  <text x="162" y="62" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="17" font-weight="700">User Directory</text>
+  <!-- Heart icon with badge -->
+  <text x="341" y="66" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21">♥</text>
+  <circle cx="357" cy="49" r="8" fill="#C2414A"/>
+  <text x="357" y="53" fill="#FFFFFF" font-family="system-ui,-apple-system,sans-serif" font-size="9" font-weight="700" text-anchor="middle">3</text>
+
+  <!-- Eyebrow -->
+  <text x="20" y="116" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="700">CAPSTONE DIRECTORY</text>
+  <!-- Title -->
+  <text x="20" y="148" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="26" font-weight="700">Meet the team</text>
+  <!-- Subtitle -->
+  <text x="20" y="172" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="13">Browse 10 profiles and find people by their details.</text>
+
+  <!-- Search bar -->
+  <rect x="20" y="186" width="335" height="46" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="36" y="215" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="13">Search name, email, username, company</text>
+
+  <!-- Result count -->
+  <text x="20" y="254" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="600">10 RESULTS</text>
+
+  <!-- Card 1 — Leanne Graham (unfavorited) -->
+  <rect x="20" y="266" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="302" r="22" fill="#E8EDFF"/>
+  <text x="58" y="307" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">LG</text>
+  <text x="92" y="290" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Leanne Graham</text>
+  <text x="92" y="306" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Bret · Romaguera-Crona</text>
+  <text x="92" y="322" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">sincere@april.biz</text>
+  <text x="334" y="307" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♡</text>
+
+  <!-- Card 2 — Ervin Howell (favorited) -->
+  <rect x="20" y="348" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="384" r="22" fill="#E8EDFF"/>
+  <text x="58" y="389" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">EH</text>
+  <text x="92" y="372" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Ervin Howell</text>
+  <text x="92" y="388" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Antonette · Deckow-Crist</text>
+  <text x="92" y="404" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">shanna@melissa.tv</text>
+  <text x="334" y="389" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♥</text>
+
+  <!-- Card 3 — Clementine Bauch (unfavorited) -->
+  <rect x="20" y="430" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="466" r="22" fill="#E8EDFF"/>
+  <text x="58" y="471" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">CB</text>
+  <text x="92" y="454" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Clementine Bauch</text>
+  <text x="92" y="470" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Samantha · Romaguera-Jacobsen</text>
+  <text x="92" y="486" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">nathan@yesenia.net</text>
+  <text x="334" y="471" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♡</text>
+
+  <!-- Card 4 — Patricia Lebsack (favorited) -->
+  <rect x="20" y="512" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="548" r="22" fill="#E8EDFF"/>
+  <text x="58" y="553" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">PL</text>
+  <text x="92" y="536" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Patricia Lebsack</text>
+  <text x="92" y="552" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Karianne · Robel-Corkery</text>
+  <text x="92" y="568" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">julianne.oconner@kory.org</text>
+  <text x="334" y="553" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♥</text>
+
+  <!-- Card 5 — Chelsey Dietrich (favorited) -->
+  <rect x="20" y="594" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="630" r="22" fill="#E8EDFF"/>
+  <text x="58" y="635" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">CD</text>
+  <text x="92" y="618" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Chelsey Dietrich</text>
+  <text x="92" y="634" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Kamren · Keebler LLC</text>
+  <text x="92" y="650" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="11">lucio_hettinger@annie.ca</text>
+  <text x="334" y="635" fill="#C2414A" font-family="system-ui,-apple-system,sans-serif" font-size="21" text-anchor="end">♥</text>
+
+  <!-- Card 6 partial (shows scroll) -->
+  <rect x="20" y="676" width="335" height="72" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <circle cx="58" cy="712" r="22" fill="#E8EDFF"/>
+  <text x="58" y="717" fill="#3157D5" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="700" text-anchor="middle">NK</text>
+  <text x="92" y="700" fill="#17213A" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="700">Nicholas Runolfsdottir V</text>
+  <text x="92" y="716" fill="#667085" font-family="system-ui,-apple-system,sans-serif" font-size="11">@Delphine · Considine-Lockman</text>
+
+  <!-- Bottom fade -->
+  <rect x="0" y="700" width="375" height="52" fill="url(#fadeBottom)"/>
+</svg>
